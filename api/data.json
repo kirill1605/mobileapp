@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "colorName": "Белый",
+    "productName": "Диван угловой",
+    "imagePath": "assets/images/product-image1.webp",
+    "height": 90,
+    "length": 250,
+    "width": 160,
+    "weight": 80,
+    "price": 45000,
+    "description": "Удобный угловой диван с мягкой обивкой, идеально подходит для гостиной.",
+    "availability": true,
+    "collection": [
+      "Гостиная",
+      "Угловые диваны"
+    ],
+    "variations": [
+      {
+        "colorName": "Белый",
+        "color": "#FFFFFF",
+        "imagePath": "/product-image.jpg"
+      },
+      {
+        "colorName": "Серый",
+        "color": "#808080",
+        "imagePath": "/product-image.jpg"
+      },
+      {
+        "colorName": "Бежевый",
+        "color": "#F5F5DC",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "colorName": "Коричневый",
+    "productName": "Обеденный стол",
+    "imagePath": "assets/images/product-image2.webp",
+    "height": 75,
+    "length": 160,
+    "width": 90,
+    "weight": 25,
+    "price": 22000,
+    "description": "Деревянный обеденный стол с элегантным дизайном, подходит для кухни или столовой.",
+    "availability": true,
+    "collection": [
+      "Кухня",
+      "Деревянная мебель"
+    ],
+    "variations": [
+      {
+        "colorName": "Коричневый",
+        "color": "#8B4513",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "colorName": "Черный",
+    "productName": "Кресло офисное",
+    "imagePath": "assets/images/product-image3.webp",
+    "height": 110,
+    "length": 70,
+    "width": 70,
+    "weight": 15,
+    "price": 12000,
+    "description": "Эргономичное офисное кресло с регулируемой спинкой и подлокотниками.",
+    "availability": true,
+    "collection": [
+      "Офис",
+      "Эргономичная мебель"
+    ],
+    "variations": [
+      {
+        "colorName": "Черный",
+        "color": "#000000",
+        "imagePath": "/product-image.jpg"
+      },
+      {
+        "colorName": "Серый",
+        "color": "#808080",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "colorName": "Белый",
+    "productName": "Шкаф-купе",
+    "imagePath": "assets/images/product-image4.webp",
+    "height": 220,
+    "length": 200,
+    "width": 60,
+    "weight": 70,
+    "price": 35000,
+    "description": "Вместительный шкаф-купе с зеркальными дверями, идеален для спальни.",
+    "availability": true,
+    "collection": [
+      "Спальня",
+      "Шкафы-купе"
+    ],
+    "variations": [
+      {
+        "colorName": "Белый",
+        "color": "#FFFFFF",
+        "imagePath": "/product-image.jpg"
+      },
+      {
+        "colorName": "Серый",
+        "color": "#808080",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "colorName": "Коричневый",
+    "productName": "Кровать двуспальная",
+    "imagePath": "assets/images/product-image5.webp",
+    "height": 100,
+    "length": 200,
+    "width": 160,
+    "weight": 50,
+    "price": 28000,
+    "description": "Двуспальная кровать с деревянным изголовьем и удобным матрасом.",
+    "availability": true,
+    "collection": [
+      "Спальня",
+      "Кровати"
+    ],
+    "variations": [
+      {
+        "colorName": "Коричневый",
+        "color": "#8B4513",
+        "imagePath": "/product-image.jpg"
+      },
+      {
+        "colorName": "Белый",
+        "color": "#FFFFFF",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "colorName": "Серый",
+    "productName": "Комод",
+    "imagePath": "assets/images/product-image6.webp",
+    "height": 80,
+    "length": 120,
+    "width": 50,
+    "weight": 20,
+    "price": 15000,
+    "description": "Стильный комод с тремя выдвижными ящиками, подходит для спальни или прихожей.",
+    "availability": true,
+    "collection": [
+      "Спальня",
+      "Комоды"
+    ],
+    "variations": [
+      {
+        "colorName": "Серый",
+        "color": "#808080",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "colorName": "Белый",
+    "productName": "Тумба под телевизор",
+    "imagePath": "assets/images/product-image7.webp",
+    "height": 50,
+    "length": 120,
+    "width": 40,
+    "weight": 15,
+    "price": 18000,
+    "description": "Элегантная тумба под телевизор с полками и выдвижными ящиками.",
+    "availability": true,
+    "collection": [
+      "Гостиная",
+      "Тумбы"
+    ],
+    "variations": [
+      {
+        "colorName": "Белый",
+        "color": "#FFFFFF",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "colorName": "Коричневый",
+    "productName": "Книжный шкаф",
+    "imagePath": "assets/images/product-image8.webp",
+    "height": 200,
+    "length": 100,
+    "width": 40,
+    "weight": 30,
+    "price": 25000,
+    "description": "Деревянный книжный шкаф с пятью полками, идеален для хранения книг и декора.",
+    "availability": true,
+    "collection": [
+      "Гостиная",
+      "Книжные шкафы"
+    ],
+    "variations": [
+      {
+        "colorName": "Коричневый",
+        "color": "#8B4513",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "colorName": "Черный",
+    "productName": "Журнальный столик",
+    "imagePath": "assets/images/product-image9.webp",
+    "height": 45,
+    "length": 80,
+    "width": 80,
+    "weight": 10,
+    "price": 9000,
+    "description": "Современный журнальный столик с металлическим каркасом и стеклянной столешницей.",
+    "availability": true,
+    "collection": [
+      "Гостиная",
+      "Столики"
+    ],
+    "variations": [
+      {
+        "colorName": "Черный",
+        "color": "#000000",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "colorName": "Белый",
+    "productName": "Стол обеденный",
+    "imagePath": "assets/images/product-image10.webp",
+    "height": 85,
+    "length": 50,
+    "width": 50,
+    "weight": 5,
+    "price": 5000,
+    "description": "Удобный обеденный стул с мягким сиденьем и деревянным каркасом.",
+    "availability": true,
+    "collection": [
+      "Кухня",
+      "Стулья"
+    ],
+    "variations": [
+      {
+        "colorName": "Белый",
+        "color": "#FFFFFF",
+        "imagePath": "/product-image.jpg"
+      }
+    ]
+  }
+]
